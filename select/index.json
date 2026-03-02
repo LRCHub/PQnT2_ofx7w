@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Naked",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2026-03-02T11:23:34.804857Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bring Me Sunshine (\"Naked\" Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/01_Bring_Me_Sunshine_(_Naked__Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Naked Truth",
+      "artist": "Abby Anderson",
+      "has_synced": false,
+      "path": "select/02_Naked_Truth_Abby_Anderson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Naked",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/03_Naked_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Already Naked",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/04_Already_Naked_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In the Waiting Line (Aquanote's Naked Adaption)",
+      "artist": "Zero 7",
+      "has_synced": false,
+      "path": "select/05_In_the_Waiting_Line_(Aquanote's_Naked_Adaption)_Zero_7.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Naked",
+      "artist": "Lloyd",
+      "has_synced": true,
+      "path": "select/06_Naked_Lloyd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Naked Eye",
+      "artist": "Luscious Jackson",
+      "has_synced": true,
+      "path": "select/07_Naked_Eye_Luscious_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Get Me Naked 2: Electric Boogaloo",
+      "artist": "Minus the Bear",
+      "has_synced": true,
+      "path": "select/08_Get_Me_Naked_2__Electric_Boogaloo_Minus_the_Bear.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Reunion - The Naked and Famous Remix",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/09_Reunion_-_The_Naked_and_Famous_Remix_M83.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Reunion (The Naked And Famous Remix)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/10_Reunion_(The_Naked_And_Famous_Remix)_M83.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Naked Without You",
+      "artist": "Roachford",
+      "has_synced": false,
+      "path": "select/11_Naked_Without_You_Roachford.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Naked",
+      "artist": "Falco feat. T MB",
+      "has_synced": true,
+      "path": "select/12_Naked_Falco_feat._T_MB.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "naked (feat. t mb)",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/13_naked_(feat._t_mb)_Falco.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Butt Naked",
+      "artist": "A$AP Ferg feat. Rico Nasty",
+      "has_synced": true,
+      "path": "select/14_Butt_Naked_A$AP_Ferg_feat._Rico_Nasty.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Butt Naked (feat. Rico Nasty)",
+      "artist": "A$AP Ferg",
+      "has_synced": true,
+      "path": "select/15_Butt_Naked_(feat._Rico_Nasty)_A$AP_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Naked Sun",
+      "artist": "...And You Will Know Us By the Trail of Dead",
+      "has_synced": false,
+      "path": "select/16_Naked_Sun_...And_You_Will_Know_Us_By_the_Trail_of_Dead.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Naked Sun",
+      "artist": "...And You Will Know Us By The Trail Of Dead",
+      "has_synced": false,
+      "path": "select/17_Naked_Sun_...And_You_Will_Know_Us_By_The_Trail_Of_Dead.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "History of Touches - Rabit Naked Mix",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/18_History_of_Touches_-_Rabit_Naked_Mix_Björk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Naked",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_Naked_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
